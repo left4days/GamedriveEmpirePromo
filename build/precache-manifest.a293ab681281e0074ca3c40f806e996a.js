@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo_seagate.154ed113.svg"
   },
   {
-    "revision": "a6e91e56c4882c8dec98",
-    "url": "/static/js/main.d9f79411.chunk.js"
+    "revision": "b2f8ee0ef10e3a37d856",
+    "url": "/static/js/main.2d9557e8.chunk.js"
   },
   {
     "revision": "dc5f4f754673ebad7fb915d6124a693c",
@@ -88,11 +88,15 @@ self.__precacheManifest = [
     "url": "/static/media/image_ssd_520.66bffdcd.png"
   },
   {
-    "revision": "ecdecefc0c3afa8aee60",
-    "url": "/static/js/2.8dedec3b.chunk.js"
+    "revision": "d568a8dc6cd1eb0d029ed07609bb865c",
+    "url": "/static/media/frame.d568a8dc.svg"
   },
   {
-    "revision": "26720ec10320ce68be8f03264860be5e",
+    "revision": "2ec50a086d74d2f5e4ab",
+    "url": "/static/js/2.5a2e635c.chunk.js"
+  },
+  {
+    "revision": "3d21b074dd14aa1c19bd3cd56e7d8e52",
     "url": "/index.html"
   }
 ];

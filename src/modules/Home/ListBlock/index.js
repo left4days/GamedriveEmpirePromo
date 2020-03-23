@@ -17,43 +17,6 @@ const ListBlock = () => {
     return (
         <Row className="list-block__container">
             <Column className="list-block">
-                <Column className="list-block__product">
-                    <Title size="m" weight="700">
-                        <span>FIRECUDA</span> SSD 510 Series
-                    </Title>
-                    <Description weight="400" size="m">
-                        <span>Хороший выбор</span> для геймеров и творческих людей
-                    </Description>
-                </Column>
-                <Column className="list-block__info">
-                    <ul>
-                        <li>
-                            <img src={icon1} alt="" />
-                            <p>PCIe G3 ×4 NVMe 1.3 - почти в шесть раз быстрее, чем твердотельные накопители SATA</p>
-                        </li>
-                        <li>
-                            <img src={icon2} alt="" />
-                            <p>Максимальная скорость последовательного чтения до 3450 МБ/с</p>
-                        </li>
-                        <li>
-                            <img src={icon3} alt="" />
-                            <p>Максимальная скорость записи до 3200 МБ/с</p>
-                        </li>
-                        <li>
-                            <img src={icon4} alt="" />
-                            <p>Показатель средней наработки на отказ 1,8 млн часов</p>
-                        </li>
-                        <li>
-                            <img src={icon5} alt="" />
-                            <p>Общее количество записанных данных до 2600 ТБ</p>
-                        </li>
-                    </ul>
-                    <Button size="full" link="https://www.dns-shop.ru/search/?q=firecuda+SSD">
-                        КУПИТЬ
-                    </Button>
-                </Column>
-            </Column>
-            <Column className="list-block">
                 <Column className="list-block__product list-block__product_2">
                     <Title size="m" weight="700">
                         <span>FIRECUDA</span> SSD 520 Series
@@ -82,6 +45,43 @@ const ListBlock = () => {
                             <p>
                                 Максимальная скорость записи <span>до 4400 МБ/с</span>
                             </p>
+                        </li>
+                        <li>
+                            <img src={icon4} alt="" />
+                            <p>Показатель средней наработки на отказ 1,8 млн часов</p>
+                        </li>
+                        <li>
+                            <img src={icon5} alt="" />
+                            <p>Общее количество записанных данных до 2600 ТБ</p>
+                        </li>
+                    </ul>
+                    <Button size="full" link="https://www.dns-shop.ru/search/?q=firecuda+SSD">
+                        КУПИТЬ
+                    </Button>
+                </Column>
+            </Column>
+            <Column className="list-block">
+                <Column className="list-block__product">
+                    <Title size="m" weight="700">
+                        <span>FIRECUDA</span> SSD 510 Series
+                    </Title>
+                    <Description weight="400" size="m">
+                        <span>Хороший выбор</span> для геймеров и творческих людей
+                    </Description>
+                </Column>
+                <Column className="list-block__info">
+                    <ul>
+                        <li>
+                            <img src={icon1} alt="" />
+                            <p>PCIe G3 ×4 NVMe 1.3 - почти в шесть раз быстрее, чем твердотельные накопители SATA</p>
+                        </li>
+                        <li>
+                            <img src={icon2} alt="" />
+                            <p>Максимальная скорость последовательного чтения до 3450 МБ/с</p>
+                        </li>
+                        <li>
+                            <img src={icon3} alt="" />
+                            <p>Максимальная скорость записи до 3200 МБ/с</p>
                         </li>
                         <li>
                             <img src={icon4} alt="" />

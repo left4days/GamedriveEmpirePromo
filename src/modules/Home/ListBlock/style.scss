@@ -34,6 +34,36 @@
 
     &_2 {
       background-image: url('../../../statics/image_ssd_520.png');
+      position: relative;
+      &:after {
+        content: '';
+        position: absolute;
+        top: rem(105px);
+        right: rem(60px);
+        background-image: url('../../../statics/frame.svg');
+        width: rem(100px);
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: rem(110px);
+        @include screen-lt(desktop) {
+          right: rem(40px);
+        }
+        @include screen-lt(mobile) {
+          right: rem(40px);
+          top: rem(50px);
+        }
+      }
+      @include screen-lt(tablet) {
+        .title__container {
+          max-width: 80%;
+        }
+      }
+      @include screen-lt(mobile-small) {
+        .title__container {
+          max-width: 75%;
+        }
+      }
     }
   }
 
