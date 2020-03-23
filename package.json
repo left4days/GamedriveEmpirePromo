@@ -1,8 +1,8 @@
 {
-  "name": "gamedrive",
+  "name": "firecuda",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gamedrive.empire.gg/",
+  "homepage": "http://ssd.empire.gg/",
   "dependencies": {
     "@babel/core": "7.2.2",
     "@babel/plugin-transform-react-jsx": "^7.3.0",
