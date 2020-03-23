@@ -1,6 +1,7 @@
 .policy {
   background-color: $white;
   padding: rem(80px 40px);
+  z-index: 1;
   &__container {
     @include container-size();
     padding: rem(40px 0);

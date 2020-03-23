@@ -136,8 +136,6 @@ body {
   padding: 0;
   box-sizing: border-box;
   margin: 0;
-  background-repeat: no-repeat;
-  background-position: top center;
   > * {
     box-sizing: border-box;
   }
@@ -259,5 +257,4 @@ html {
   @include screen-lt(desktop-x-small) {
     @include rem-baseline(70%);
   }
-
 }

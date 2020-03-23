@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b4fce7c386d5bd3ac382cf61fcfd0de1",
-    "url": "/static/media/icon_record2.b4fce7c3.svg"
+    "revision": "154ed11357b9820e8a811167247a80a9",
+    "url": "/static/media/logo_seagate.154ed113.svg"
   },
   {
-    "revision": "dd0678f024f243fc9ce8",
-    "url": "/static/js/main.4c22b8f2.chunk.js"
+    "revision": "36ac11b7f2c7f800417a",
+    "url": "/static/js/main.327b4a82.chunk.js"
   },
   {
-    "revision": "66bffdcdb275f3cc7be29dc8867bfe15",
-    "url": "/static/media/image_ssd_520.66bffdcd.png"
+    "revision": "dc5f4f754673ebad7fb915d6124a693c",
+    "url": "/static/media/image_HeaderBackground.dc5f4f75.png"
   },
   {
     "revision": "c19a1d631394b7909c4c87212b535726",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/static/media/icon_read2.4cff4be2.svg"
   },
   {
-    "revision": "fdfcfda2d9b1bf31db52",
-    "url": "/static/js/runtime~main.c5541365.js"
+    "revision": "b4fce7c386d5bd3ac382cf61fcfd0de1",
+    "url": "/static/media/icon_record2.b4fce7c3.svg"
   },
   {
-    "revision": "154ed11357b9820e8a811167247a80a9",
-    "url": "/static/media/logo_seagate.154ed113.svg"
+    "revision": "fdfcfda2d9b1bf31db52",
+    "url": "/static/js/runtime~main.c5541365.js"
   },
   {
     "revision": "7b863562aeed73f77ea90aa363e7cf83",
@@ -84,11 +84,15 @@ self.__precacheManifest = [
     "url": "/static/media/image_ssd_510.7ebff967.png"
   },
   {
-    "revision": "7eca2358d63339d719fc",
-    "url": "/static/js/2.3f751575.chunk.js"
+    "revision": "66bffdcdb275f3cc7be29dc8867bfe15",
+    "url": "/static/media/image_ssd_520.66bffdcd.png"
   },
   {
-    "revision": "fac0aadca2f3aae20d441ae6edaea662",
+    "revision": "ecdecefc0c3afa8aee60",
+    "url": "/static/js/2.8dedec3b.chunk.js"
+  },
+  {
+    "revision": "f9198091087df65065573b6ccd29cb2e",
     "url": "/index.html"
   }
 ];

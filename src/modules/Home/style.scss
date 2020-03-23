@@ -1,6 +1,7 @@
 .home {
   @include container-size();
   padding-bottom: rem(200px);
+  z-index: 1;
   &__button {
     margin: rem(100px 0);
     @include screen-lt(mobile-small) {
@@ -8,5 +9,21 @@
         width: 100%;
       }
     }
+  }
+}
+
+body {
+  position: relative;
+  &:after {
+    content: '';
+    background-image: url('../../statics/image_HeaderBackground.png');
+    height: rem(809px);
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 100%;
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
   }
 }
