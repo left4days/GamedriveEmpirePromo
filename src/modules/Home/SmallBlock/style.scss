@@ -5,15 +5,16 @@
   height: rem(404px);
   background-image: url('../../../statics/image_background_1card.png');
   background-size: cover;
+  background-color: #000;
   border: 1px solid #DDDCDC;
   background-repeat: no-repeat;
   border-radius: rem(20px);
-  background-position: 0 -6px;
+  background-position: 6px -4px;
   position: relative;
   padding: rem(0 40px);
   @include screen-lt(desktop) {
     height: 23.25rem;
-    background-position: 5px -6px;
+    background-position: 6 -4px;
   }
   @include screen-lt(tablet) {
     background-position: 0 0;

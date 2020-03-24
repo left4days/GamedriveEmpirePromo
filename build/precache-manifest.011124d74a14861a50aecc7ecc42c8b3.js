@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo_seagate.154ed113.svg"
   },
   {
-    "revision": "15341edc179cf2c6c687",
-    "url": "/static/js/main.91ef6107.chunk.js"
+    "revision": "b85b4390358578033e7e",
+    "url": "/static/js/main.a53b3632.chunk.js"
   },
   {
     "revision": "dc5f4f754673ebad7fb915d6124a693c",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/static/js/2.5a2e635c.chunk.js"
   },
   {
-    "revision": "afcde945d2def59590295876df32c05b",
+    "revision": "e28c6a7f0e432f2b1398c5cceead755e",
     "url": "/index.html"
   }
 ];
