@@ -30,7 +30,7 @@ const DefaultModal = () => {
             </div>
             <Title size="s" color="white" weight="500">
                 Для участия в розыгрыше оставьте свое число участника в комментариях{' '}
-                <a target="_blank" href="https://vk.com/">
+                <a target="_blank" href="https://vk.com/wall-48126202_822848">
                     под постом вконтакте
                 </a>
             </Title>
